@@ -29,4 +29,4 @@ jobs:
           python -m pip install --upgrade pip
           
       - name: Run Python script
-        run: python cloud1.py  # Replace with your script's name
+        run: python cloud_ex1.py  # Replace with your script's name
